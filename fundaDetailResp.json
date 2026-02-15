@@ -1,0 +1,665 @@
+{
+  "Identifiers": {
+    "GlobalId": 17274656,
+    "TinyId": "12354568"
+  },
+  "Price": {
+    "SellingPrice": "€ 100.000 k.k.",
+    "NumericSellingPrice": 100000,
+    "IsAuction": false
+  },
+  "KenmerkSections": [
+    {
+      "Index": 1,
+      "Id": "overdracht",
+      "Title": "Overdracht",
+      "KenmerkenList": [
+        {
+          "Index": 0,
+          "Id": "overdracht-aangeboden-sinds",
+          "Label": "Aangeboden sinds",
+          "Value": "Februari 14, 2026",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 0,
+          "Label": "Aanvaarding",
+          "Value": "In overleg",
+          "LabelStyle": "None"
+        },
+        {
+          "Index": 1,
+          "Id": "overdracht-vraagprijs",
+          "Label": "Vraagprijs",
+          "Value": "€ 100.000 kosten koper",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "PriceTooltip": {
+            "Price": "€ 100.000",
+            "LivingSpace": "57 m²",
+            "PriceIcon": "Information"
+          },
+          "Index": 2,
+          "Id": "overdracht-vraagprijsperm2",
+          "Label": "Vraagprijs per m²",
+          "Value": "€ 1.754",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 5,
+          "Id": "overdracht-status",
+          "Label": "Status",
+          "Value": "Beschikbaar",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 8,
+          "Id": "overdracht-bijdragevve",
+          "Label": "Bijdrage VvE",
+          "Value": "€ 100,00 per maand",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        }
+      ]
+    },
+    {
+      "Index": 2,
+      "Id": "bouw",
+      "Title": "Bouw",
+      "KenmerkenList": [
+        {
+          "Index": 1,
+          "Id": "bouw-soortobject",
+          "Label": "Soort appartement",
+          "Value": "Bovenwoning (appartement)",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 2,
+          "Id": "bouw-soortbouw",
+          "Label": "Soort bouw",
+          "Value": "Bestaande bouw",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 3,
+          "Id": "bouw-bouwjaar",
+          "Label": "Bouwjaar",
+          "Value": "1950",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 6,
+          "Id": "bouw-dak",
+          "Label": "Soort dak",
+          "Value": "Zadeldak",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        }
+      ]
+    },
+    {
+      "Index": 3,
+      "Id": "afmetingen",
+      "Title": "Oppervlakten en inhoud",
+      "KenmerkenList": [
+        {
+          "Index": 1,
+          "Label": "Gebruiksoppervlakten",
+          "LabelStyle": "Title",
+          "KenmerkenList": [
+            {
+              "Index": 1,
+              "Id": "afmetingen-gebruiksoppervlakten-wonen",
+              "Label": "Wonen",
+              "Value": "57 m²",
+              "LabelStyle": "None",
+              "KenmerkenList": []
+            },
+            {
+              "Index": 3,
+              "Id": "afmetingen-gebruiksoppervlakte-gebouwgebondenbuitenruimte",
+              "Label": "Gebouwgebonden buitenruimte",
+              "Value": "6 m²",
+              "LabelStyle": "None",
+              "KenmerkenList": []
+            }
+          ]
+        },
+        {
+          "Index": 3,
+          "Id": "afmetingen-inhoud",
+          "Label": "Inhoud",
+          "Value": "191 m³",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        }
+      ]
+    },
+    {
+      "Index": 4,
+      "Id": "indeling",
+      "Title": "Indeling",
+      "KenmerkenList": [
+        {
+          "Index": 1,
+          "Id": "indeling-totalrooms",
+          "Label": "Aantal kamers",
+          "Value": "3 kamers (2 slaapkamers)",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 2,
+          "Id": "indeling-totalbathroom",
+          "Label": "Aantal badkamers",
+          "Value": "1 badkamer",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 3,
+          "Id": "indeling-bathroom",
+          "Label": "Badkamervoorzieningen",
+          "Value": "Douche, toilet, wastafel, en wastafelmeubel",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 4,
+          "Id": "indeling-totalstories",
+          "Label": "Aantal woonlagen",
+          "Value": "1 woonlaag",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 5,
+          "Id": "indeling-generalfacilities",
+          "Label": "Voorzieningen",
+          "Value": "Natuurlijke ventilatie en TV kabel",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 6,
+          "Id": "indeling-locatedat",
+          "Label": "Gelegen op",
+          "Value": "1e woonlaag",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        }
+      ]
+    },
+    {
+      "Index": 5,
+      "Id": "energie",
+      "Title": "Energie",
+      "KenmerkenList": [
+        {
+          "EnergyData": {
+            "EnergyLabel": "C"
+          },
+          "EnergyLabel": "C",
+          "Index": 1,
+          "Id": "energie-energielabel",
+          "Label": "Energielabel",
+          "Value": "Wat betekent dit?",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 2,
+          "Id": "energie-isolatie",
+          "Label": "Isolatie",
+          "Value": "HR-glas",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 3,
+          "Id": "energie-verwarming",
+          "Label": "Verwarming",
+          "Value": "Cv-ketel",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 4,
+          "Id": "energie-warmwater",
+          "Label": "Warm water",
+          "Value": "Cv-ketel",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 5,
+          "Id": "energie-cv",
+          "Label": "Cv-ketel",
+          "Value": "Remeha (gas gestookt uit 2009, eigendom)",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        }
+      ]
+    },
+    {
+      "Index": 6,
+      "Id": "cadastral",
+      "Title": "Kadastrale gegevens",
+      "KenmerkenList": [
+        {
+          "Index": 1,
+          "Id": "cadastral-parcel",
+          "Label": "SLOTEN M 1513A",
+          "LabelStyle": "Title",
+          "KenmerkenList": [
+            {
+              "Index": 3,
+              "Id": "cadastral-ownershipsituation",
+              "Label": "Eigendomssituatie",
+              "Value": "Volle eigendom",
+              "LabelStyle": "None",
+              "KenmerkenList": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Index": 7,
+      "Id": "buitenruimte",
+      "Title": "Buitenruimte",
+      "KenmerkenList": [
+        {
+          "Index": 1,
+          "Id": "buitenruimte-ligging",
+          "Label": "Ligging",
+          "Value": "Aan rustige weg en in woonwijk",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        },
+        {
+          "Index": 5,
+          "Id": "buitenruimte-balkonterras",
+          "Label": "Balkon/dakterras",
+          "Value": "Balkon aanwezig",
+          "LabelStyle": "None",
+          "KenmerkenList": []
+        }
+      ]
+    },
+    {
+      "Index": 10,
+      "Id": "parkeergelegenheid",
+      "Title": "Parkeergelegenheid",
+      "KenmerkenList": [
+        {
+          "Index": 0,
+          "Label": "Soort parkeergelegenheid",
+          "Value": "Betaald parkeren en parkeervergunningen",
+          "LabelStyle": "None"
+        }
+      ]
+    },
+    {
+      "Index": 11,
+      "Id": "vvechecklist",
+      "Title": "VvE checklist",
+      "KenmerkenList": [
+        {
+          "Index": 0,
+          "Label": "Inschrijving KvK",
+          "Value": "Ja",
+          "LabelStyle": "None"
+        },
+        {
+          "Index": 0,
+          "Label": "Jaarlijkse vergadering",
+          "Value": "Ja",
+          "LabelStyle": "None"
+        },
+        {
+          "Index": 0,
+          "Label": "Periodieke bijdrage",
+          "Value": "Ja (€ 120,00 per maand)",
+          "LabelStyle": "None"
+        },
+        {
+          "Index": 0,
+          "Label": "Reservefonds aanwezig",
+          "Value": "Ja",
+          "LabelStyle": "None"
+        },
+        {
+          "Index": 0,
+          "Label": "Onderhoudsplan",
+          "Value": "Ja",
+          "LabelStyle": "None"
+        },
+        {
+          "Index": 0,
+          "Label": "Opstalverzekering",
+          "Value": "Ja",
+          "LabelStyle": "None"
+        }
+      ]
+    }
+  ],
+  "Labels": [
+    {
+      "Text": "Nieuw",
+      "Type": "New"
+    }
+  ],
+  "Urls": {
+    "FriendlyUrl": {
+      "FullUrl": "https://www.funda.nl/detail/koop/amsterdam/appartement-blablabla-1/43246854/",
+      "RelativeUrl": "/detail/koop/amsterdam/appartement-blablabla-1/43246854/"
+    },
+    "ReportErrorUrl": "https://help.funda.nl:443/s/mef?globalID=7891491&returnURL=https%3a%2f%2fwww.funda.nl%2fdetail%2fkoop%2famsterdam%2fappartement-blablabla-1%2f43246854%2f&brokerID=24780"
+  },
+  "ListingDescription": {
+    "Title": "Omschrijving",
+    "Description": "DESCRIPTION BLABLA BLA"
+  },
+  "AddressDetails": {
+    "Title": "BLABLABLA 67-1",
+    "SubTitle": "0000 ABC Amsterdam",
+    "IsInternational": false,
+    "NeighborhoodName": "BLABLABLA e.o.",
+    "NeighborhoodIdentifier": "amsterdam/BLABLABLA-eo",
+    "City": "Amsterdam",
+    "Province": "Noord-Holland",
+    "Country": "Nederland",
+    "HouseNumber": "00",
+    "HouseNumberExtension": "1",
+    "PostCode": "0000 ABC"
+  },
+  "Coordinates": {
+    "Latitude": 0.361782,
+    "Longitude": 0.8551617
+  },
+  "KadastraleKaartBaseUrl": "https://service.pdok.nl/kadaster/kadastralekaart/wms/v5_0",
+  "Media": {
+    "Layout": {
+      "MediaViewerIsVisible": true,
+      "MainPhotoThumbnailIsVisible": false
+    },
+    "Photos": {
+      "ThumbnailBaseUrl": "https://cloud.funda.nl/valentina_media/{id}.jpg",
+      "MediaBaseUrl": "https://cloud.funda.nl/valentina_media/{id}.jpg",
+      "Items": [
+        {
+          "Id": "224/529/097"
+        },
+        {
+          "Id": "224/529/134"
+        },
+        {
+          "Id": "224/529/102"
+        },
+        {
+          "Id": "224/529/144"
+        },
+        {
+          "Id": "224/529/100"
+        },
+        {
+          "Id": "224/529/111"
+        },
+        {
+          "Id": "224/529/112"
+        },
+        {
+          "Id": "224/529/107"
+        },
+        {
+          "Id": "224/529/109"
+        },
+        {
+          "Id": "224/529/120"
+        },
+        {
+          "Id": "224/529/124"
+        },
+        {
+          "Id": "224/529/129"
+        },
+        {
+          "Id": "224/529/117"
+        },
+        {
+          "Id": "224/529/126"
+        },
+        {
+          "Id": "224/529/128"
+        },
+        {
+          "Id": "224/529/131"
+        },
+        {
+          "Id": "224/529/135"
+        },
+        {
+          "Id": "224/529/138"
+        },
+        {
+          "Id": "224/529/141"
+        },
+        {
+          "Id": "224/529/146"
+        },
+        {
+          "Id": "224/529/094"
+        },
+        {
+          "Id": "224/529/148"
+        },
+        {
+          "Id": "224/529/167"
+        },
+        {
+          "Id": "224/529/168"
+        },
+        {
+          "Id": "224/529/149"
+        },
+        {
+          "Id": "224/529/202"
+        },
+        {
+          "Id": "224/529/152"
+        },
+        {
+          "Id": "224/529/154"
+        }
+      ]
+    },
+    "Videos": {
+      "ThumbnailBaseUrl": "https://customer-vzk8jgcsaz84e8sb.cloudflarestream.com/{id}/thumbnails/thumbnail.jpg",
+      "MediaBaseUrl": "https://customer-vzk8jgcsaz84e8sb.cloudflarestream.com/{id}/manifest/video.m3u8",
+      "Items": [
+        {
+          "Id": "5ef0dde29c7a03a8ad292f7c284c861f"
+        }
+      ]
+    },
+    "Photos360": {
+      "MediaBaseUrl": "https://www.funda.nl/detail/43246854/panorama/{index}/",
+      "ThumbnailBaseUrl": "https://cloud.funda.nl/{id}",
+      "Items": [
+        {
+          "Id": "listing-management/277a2ae8-7452-4404-9af9-99caff8e03ac",
+          "DisplayName": "Keuken",
+          "EmbedUrl": "https://funda.cloudpano.com/tours/N0UsMI_jy4Nr#sceneId=crnF7WOsNv"
+        },
+        {
+          "Id": "listing-management/c7c6adea-efaa-4c33-b97e-213438ee7fc1",
+          "DisplayName": "Woonkamer",
+          "EmbedUrl": "https://funda.cloudpano.com/tours/N0UsMI_jy4Nr#sceneId=uu_iy6OmPN"
+        },
+        {
+          "Id": "listing-management/f1c018ce-8e3c-428b-920b-d7680fbb0a4d",
+          "DisplayName": "Gang",
+          "EmbedUrl": "https://funda.cloudpano.com/tours/N0UsMI_jy4Nr#sceneId=HEAi8Y6w82"
+        },
+        {
+          "Id": "listing-management/1fc90567-8275-40d8-8fea-de2eb6b2c158",
+          "DisplayName": "Slaapkamer",
+          "EmbedUrl": "https://funda.cloudpano.com/tours/N0UsMI_jy4Nr#sceneId=ZNanDH-V_b"
+        },
+        {
+          "Id": "listing-management/54dd94aa-d4cd-4a6f-a3c2-7a39080d383a",
+          "DisplayName": "Woonkamer",
+          "EmbedUrl": "https://funda.cloudpano.com/tours/N0UsMI_jy4Nr#sceneId=ILDp2Yb_X1"
+        },
+        {
+          "Id": "listing-management/2b7b6f54-4f15-4bf3-bc3c-4e98f9aefbcd",
+          "DisplayName": "Badkamer",
+          "EmbedUrl": "https://funda.cloudpano.com/tours/N0UsMI_jy4Nr#sceneId=N7_8Ll1kk"
+        }
+      ]
+    },
+    "FloorPlan": {
+      "ThumbnailBaseUrl": "https://cloud.funda.nl/{id}",
+      "MediaBaseUrl": "https://www.funda.nl/detail/43246854/floorplan/{index}/",
+      "Items": [
+        {
+          "Id": "listing-management/3244a212-1027-40aa-b0ba-8bd38b3a14a3",
+          "DisplayName": "Eerste Verdieping",
+          "EmbedUrl": "https://fmlpub.s3-eu-west-1.amazonaws.com/embed.html?designId=296545582&projectId=182286937"
+        }
+      ]
+    },
+    "Brochure": {
+      "ProxyUrl": "https://www.funda.nl/koop/amsterdam/ablablabla/brochure/download/",
+      "CdnUrl": "https://cloud.funda.nl/valentina_media/224/559/180.pdf"
+    }
+  },
+  "Advertising": {
+    "OfferType": "Koop",
+    "ContentUrl": "https://www.funda.nl/koop/amsterdam/ablablabla/",
+    "TargetingOptions": {
+      "taal": "nl",
+      "cat42": "0",
+      "soortaanbod": "koop",
+      "globalid": "7891491",
+      "cat1": "noordholland",
+      "cat2": "amsterdam",
+      "cat3": "1058xd",
+      "cat4": "67",
+      "cat5": "1",
+      "cat6": "495000",
+      "cat7": "appartement",
+      "cat8": "3",
+      "cat9": "57",
+      "cat10": "c",
+      "cat11": "24780",
+      "cat13": "bestaandebouw",
+      "cat20": "oud",
+      "cat24": "0",
+      "cat26": "nvm",
+      "cat28": "0",
+      "cat29": "1930",
+      "cat30": "450000",
+      "cat33": "koop",
+      "cat35": "43246854",
+      "cat36": "0",
+      "cat38": "gemeenteamsterdam",
+      "cat39": "paramaribopleineo",
+      "cat43": "0",
+      "cat44": "0",
+      "postcode": "1058xd",
+      "plaats": "amsterdam",
+      "provincie": "noordholland",
+      "huisnummer": "67",
+      "huisnummertoevoeging": "1",
+      "woonoppervlakte": "57",
+      "vraagprijs": "495000",
+      "aantalkamers": "3",
+      "soortobject": "appartement",
+      "energieklasse": "c",
+      "hoofdaanbieder": "24780",
+      "bouwvorm": "bestaandebouw",
+      "bedrijfsruimte": "false",
+      "cvketel": "oud",
+      "branchevereniging": "nvm",
+      "dakterras": "false",
+      "tuin": "false",
+      "balkon": "true",
+      "soortaanbieding": "koop",
+      "tinyid": "43246854",
+      "vraagprijsrange": "450000",
+      "bouwjaar": "1930",
+      "openhuis": "false",
+      "gemeente": "amsterdam",
+      "buurt": "paramaribopleineo",
+      "monumentalestatus": "false",
+      "rijksmonument": "false",
+      "energiezuinig": "false",
+      "kluswoning": "false",
+      "adgroup": "b",
+      "status": "beschikbaar",
+      "zonnepanelen": "false",
+      "parkeergelegenheidopafgeslotenterrein": "false",
+      "parkeergelegenheidopeigenterrein": "false",
+      "warmtepomp": "false"
+    }
+  },
+  "Tracking": {
+    "Values": {
+      "global_id": 7891491,
+      "listing_askingprice": 495000,
+      "listing_offering_type": "koop",
+      "listing_type": "apartment",
+      "listing_status": "beschikbaar",
+      "listing_postal_code": "1058XD",
+      "listing_house_no": 67,
+      "listing_house_no_addition": "1",
+      "listing_place": "Amsterdam",
+      "brokers": [
+        {
+          "broker_id": 24780,
+          "broker_association": "nvm"
+        }
+      ],
+      "broker_id": 24780,
+      "broker_association": "nvm",
+      "main_broker_id": 24780,
+      "main_broker_association": "nvm"
+    }
+  },
+  "Promo": {
+    "Blikvanger": {
+      "Text": "Super appartement met brede woonkamer, 2 slaapkamers, zonnig balkon"
+    }
+  },
+  "FastView": {
+    "LivingArea": "57 m²",
+    "PlotArea": "",
+    "NumberOfBedrooms": "2",
+    "EnergyLabel": "C"
+  },
+  "Share": {
+    "Url": "https://www.funda.nl/detail/43246854",
+    "Text": "Gevonden via #funda"
+  },
+  "IsSoldOrRented": false,
+  "ObjectType": "Apartment",
+  "OfferingType": "Sale",
+  "ConstructionType": "ExistingConstruction",
+  "PublicationDate": "2026-02-14T00:00:00",
+  "GoogleMapsObjectUrl": "https://www.google.nl/maps/place/blablablal+Amsterdam",
+  "ObjectInsights": {
+    "Views": "1.378",
+    "Saves": "72"
+  }
+}

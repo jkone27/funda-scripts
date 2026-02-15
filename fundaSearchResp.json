@@ -1,0 +1,139 @@
+{
+  "took": 6,
+  "responses": [
+    {
+      "took": 6,
+      "timed_out": false,
+      "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+      },
+      "hits": {
+        "total": {
+          "value": 19054,
+          "relation": "eq"
+        },
+        "max_score": null,
+        "hits": [
+          {
+            "_index": "search-listings-prod-20260129121141",
+            "_id": "7892504",
+            "_score": null,
+            "_source": {
+              "agent": [
+                {
+                  "office_id": "BLABLABLAidihf8347",
+                  "relative_url": "/makelaar/BLABLA/",
+                  "is_primary": true,
+                  "logo_id": 219121541,
+                  "name": "SEM makelaars",
+                  "association": "NVM",
+                  "id": 6290
+                }
+              ],
+              "number_of_bedrooms": 2,
+              "address": {
+                "country": "NL",
+                "province": "Noord-Holland",
+                "wijk": "Oosterparkbuurt",
+                "city": "Amsterdam",
+                "neighbourhood": "BLABLA",
+                "identifiers": [
+                  "nl",
+                  "amsterdam/straat-vrolikstraat",
+                  "amsterdam"
+                ],
+                "house_number_suffix": "C",
+                "municipality": "Amsterdam",
+                "is_bag_address": true,
+                "house_number": "401",
+                "postal_code": "SOMEPOSTALCODE",
+                "street_name": "BLABLABLA"
+              },
+              "blikvanger": {
+                "enabled": false
+              },
+              "object_type": "apartment",
+              "energy_label": "A",
+              "floor_area": [
+                75
+              ],
+              "floor_area_range": {
+                "gte": 75,
+                "lte": 75
+              },
+              "type": "single",
+              "construction_type": "resale",
+              "thumbnail_id": [
+                224563437,
+                224563457,
+                224563462,
+                224563438,
+                224563440,
+                224563450,
+                224563439,
+                224563456,
+                224563441,
+                224563458,
+                224563459,
+                224563442,
+                224563443,
+                224563444,
+                224563460,
+                224563445,
+                224563461,
+                224563446,
+                224563447,
+                224563448,
+                224563449,
+                224563451,
+                224563452,
+                224563453,
+                224563454,
+                224563455,
+                224563463,
+                224563466,
+                224563464,
+                224563467,
+                224563465
+              ],
+              "offering_type": [
+                "buy"
+              ],
+              "price": {
+                "selling_price": [
+                  600000
+                ],
+                "selling_price_range": {
+                  "gte": 600000,
+                  "lte": 600000
+                },
+                "selling_price_type": "regular",
+                "selling_price_condition": "kosten_koper"
+              },
+              "zoning": "residential",
+              "id": 7892504,
+              "available_media_types": [
+                "floor_plan",
+                "photo_360",
+                "video"
+              ],
+              "publish_date": "2026-02-15T10:52:08.5530000+01:00",
+              "object_detail_page_relative_url": "/detail/koop/amsterdam/blablabla",
+              "status": "none",
+              "number_of_rooms": 3
+            },
+            "sort": [
+              "basis",
+              59000,
+              7892504
+            ]
+          }
+        ]
+      },
+      "status": 200
+    }
+  ]
+}

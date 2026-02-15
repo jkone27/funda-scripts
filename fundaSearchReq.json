@@ -1,0 +1,42 @@
+[
+  {
+    "id": "search_result_buy",
+    "params": {
+      "availability": ["immediate", "soon", "future"],
+      "type": ["single"],
+      "zoning": ["residential"],
+      "object_type": ["house", "apartment"],
+      "publication_date": {"no_preference": true},
+      "offering_type": "buy",
+      "page": {"from": 0},
+      "sort": {"field": "price.selling_price", "order": "asc"},
+      "selected_area": ["Amsterdam", "Amstelveen"],
+      "price": {
+        "selling_price": {"from": 300000, "to": 600000}
+      },
+      "floor_area": {"from": 50, "to": 150},
+      "plot_area": {"from": 100, "to": 500},
+      "energy_label": ["A", "B", "C"]
+    }
+  },
+  {
+    "id": "search_result_rent",
+    "params": {
+      "availability": ["immediate", "soon", "future"],
+      "type": ["single"],
+      "zoning": ["residential"],
+      "object_type": ["house", "apartment"],
+      "publication_date": {"no_preference": true},
+      "offering_type": "rent",
+      "page": {"from": 0},
+      "sort": {"field": "price.rent_price", "order": "desc"},
+      "selected_area": ["Amsterdam", "Amstelveen"],
+      "price": {
+        "rent_price": {"from": 1000, "to": 2500}
+      },
+      "floor_area": {"from": 40, "to": 120},
+      "plot_area": {"from": 80, "to": 400},
+      "energy_label": ["A", "B", "C"]
+    }
+  }
+]
